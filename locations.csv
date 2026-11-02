@@ -1,0 +1,6 @@
+loc_id,name,type,region,holding_cost_rate,capacity_units
+1,Plant-A,Plant,Midwest,0.0,0
+2,Plant-B,Plant,South,0.0,0
+3,DC-East,DC,East,0.25,40000
+4,DC-Central,DC,Central,0.25,35000
+5,DC-West,DC,West,0.3,30000

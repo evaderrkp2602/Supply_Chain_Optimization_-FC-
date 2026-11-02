@@ -1,0 +1,4 @@
+supplier_id,name,region,avg_lead_time_days,lead_time_std,reliability
+1,Rel-Corp,Domestic,7,1,0.98
+2,MidCo,Domestic,14,3,0.95
+3,SlowVendor,Overseas,30,10,0.85
